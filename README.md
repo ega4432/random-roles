@@ -5,9 +5,8 @@
 Notification of the clearning roles for tech lovers in Fukuoka :heart:
 
 ```
-❯ tree
+random-roles
 .
-├── README.md
 ├── go.mod
 ├── go.sum
 ├── main.go
@@ -17,6 +16,12 @@ Notification of the clearning roles for tech lovers in Fukuoka :heart:
 ```
 
 ## Usage
+
+### Installation
+
+```
+❯ go get -u github.com/ashwanthkumar/slack-go-webhook
+```
 
 ### Setting 
 
@@ -46,7 +51,7 @@ For example, if you want to generate with the name `hoge` : `go build -o hoge ma
 
 ### Run
 
-In addition to executing the binary file generated earlier like this `./main` , you can also execute the following commnd.
+In addition to executing the binary file generated earlier like this `./main` , you can also execute the following command.
 
 ```
 ❯ go run main.go 
