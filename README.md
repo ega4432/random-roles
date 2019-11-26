@@ -2,6 +2,8 @@
 
 ## Overview
 
+<img alt="notification_demo" width="300px" src="https://user-images.githubusercontent.com/38056766/69641243-3437b080-10a3-11ea-9cde-6914089bcd95.png">
+
 Notification of the clearning roles for tech lovers in Fukuoka :heart:
 
 ```
